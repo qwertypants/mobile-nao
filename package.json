@@ -1,0 +1,27 @@
+{
+  "name": "mobile-nao",
+  "version": "0.1.0",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:qwertypants/mobile-nao.git"
+  },
+  "license": "MIT",
+  "description": "A quick start for developing a single page mobile website.",
+  "dependencies": {
+    "grunt": "~0.3.12",
+    "grunt-less": "~0.1.7",
+    "grunt-recess": "~0.1.0",
+    "grunt-requirejs": "~0.2.9",
+    "grunt-shell": "~0.1.2",
+    "grunt-contrib": "~0.1.1",
+    "express": "3.x"
+  },
+  "scripts": {
+    "start": "app.js"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
