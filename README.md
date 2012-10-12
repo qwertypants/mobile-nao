@@ -33,8 +33,7 @@ Obviously, you can add/edit more files to your liking by customizing your build.
 
 Customizing
 -----------
-It all starts in your [grunt.js][3] file.
-TODO: add content
+It all starts in your [grunt.js][3] file. 
 
 Fork this repo and add to the awesome. 
 ##### Based off of [sunrise][2].
